@@ -6,9 +6,7 @@ require_once("c://xampp/htdocs/CRUD-PHP-MYSQL-BOOSTRAP/controllers/userControlle
 
 
 ?>
-<div class="mb3">
-        <a href="/CRUD-PHP-MYSQL-BOOSTRAP/views/user/create.php"class= "btn btn-primary">Agregar Nuevo Usuario</a>
-</div>
+
 
 <table class="table">
     <thead>

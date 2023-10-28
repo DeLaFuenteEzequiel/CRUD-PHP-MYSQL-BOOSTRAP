@@ -26,7 +26,7 @@
             
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
-                Users
+                Usuarios
                 </a>
                 <div class="dropdown-menu">
                 <a class="dropdown-item" href="/CRUD-PHP-MYSQL-BOOSTRAP/views/user/index.php">Ver Usuarios</a>
